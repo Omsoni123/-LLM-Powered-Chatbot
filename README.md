@@ -45,7 +45,8 @@ Try asking questions like:
 - *"Summarize the key aspects of the report."*
 
 ## 📸 Demo Screenshot
-![image](https://github.com/user-attachments/assets/bf85f666-e0f9-4f12-b2ea-9692dccaef8b)
+![image](https://github.com/user-attachments/assets/45b9795a-3dba-4c01-96ee-179a867d8647)
+![image](https://github.com/user-attachments/assets/278b8c24-0255-478d-9542-2e0a2a7aded5)
 
 
 ## 🎯 Future Improvements
