@@ -62,5 +62,5 @@ Feel free to **fork** this repo and submit pull requests for improvements!
 - **LangChain** for simplifying retrieval workflows
 
 ---
-🌟 **Like this project? Give it a star ⭐ and connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile/)!**
+🌟 **Like this project? Give it a star ⭐ and connect with me on [LinkedIn](https://www.linkedin.com/in/om-soni-8b0643231/)!**
 
