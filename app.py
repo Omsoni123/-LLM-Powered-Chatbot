@@ -4,6 +4,7 @@ from sentence_transformers import SentenceTransformer
 
 # Initialize Pinecone
 INDEX_NAME = "llmmodel"  
+PINECONE_API_KEY = "ENTER YOUR OWN"
 
 pc = pinecone.Pinecone(api_key=PINECONE_API_KEY)
 index = pc.Index(INDEX_NAME)
