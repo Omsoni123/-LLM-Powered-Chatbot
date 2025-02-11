@@ -14,8 +14,8 @@ This project is a **smart chatbot** that retrieves answers from stored documents
 ## 🔧 Installation
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/llm-genAI-chatbot.git
-cd llm-genAI-chatbot
+git clone https://github.com/Omsoni123/-LLM-Powered-Chatbot.git
+cd -LLM-Powered-Chatbot
 ```
 
 ### 2️⃣ Install Required Packages
